@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TrackingDriver1", "TrackingDriver1\TrackingDriver1.vcxproj", "{1754FB82-8220-40C4-8F70-6FE301203A08}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ApplicationForDriver", "ApplicationForDriver\ApplicationForDriver.vcxproj", "{E74E0499-9037-4E04-904C-FC31162C578F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -41,6 +43,18 @@ Global
 		{1754FB82-8220-40C4-8F70-6FE301203A08}.Release|x86.ActiveCfg = Release|Win32
 		{1754FB82-8220-40C4-8F70-6FE301203A08}.Release|x86.Build.0 = Release|Win32
 		{1754FB82-8220-40C4-8F70-6FE301203A08}.Release|x86.Deploy.0 = Release|Win32
+		{E74E0499-9037-4E04-904C-FC31162C578F}.Debug|ARM.ActiveCfg = Debug|Win32
+		{E74E0499-9037-4E04-904C-FC31162C578F}.Debug|ARM64.ActiveCfg = Debug|Win32
+		{E74E0499-9037-4E04-904C-FC31162C578F}.Debug|x64.ActiveCfg = Debug|x64
+		{E74E0499-9037-4E04-904C-FC31162C578F}.Debug|x64.Build.0 = Debug|x64
+		{E74E0499-9037-4E04-904C-FC31162C578F}.Debug|x86.ActiveCfg = Debug|Win32
+		{E74E0499-9037-4E04-904C-FC31162C578F}.Debug|x86.Build.0 = Debug|Win32
+		{E74E0499-9037-4E04-904C-FC31162C578F}.Release|ARM.ActiveCfg = Release|Win32
+		{E74E0499-9037-4E04-904C-FC31162C578F}.Release|ARM64.ActiveCfg = Release|Win32
+		{E74E0499-9037-4E04-904C-FC31162C578F}.Release|x64.ActiveCfg = Release|x64
+		{E74E0499-9037-4E04-904C-FC31162C578F}.Release|x64.Build.0 = Release|x64
+		{E74E0499-9037-4E04-904C-FC31162C578F}.Release|x86.ActiveCfg = Release|Win32
+		{E74E0499-9037-4E04-904C-FC31162C578F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{e74e0499-9037-4e04-904c-fc31162c578f}</ProjectGuid>
-    <RootNamespace>ApplicationForDriver</RootNamespace>
+    <ProjectGuid>{d07c67fd-494b-4b10-9c7d-a14d0a8b85f2}</ProjectGuid>
+    <RootNamespace>ApplicationForWindowsLogger</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
